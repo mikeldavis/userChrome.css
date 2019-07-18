@@ -1,1 +1,1 @@
-This userChrome.css should give firefox a green color similar to the one in the "Shades of Gray-Patina" theme. After upgrading to Firefox 68, the color when text is highlighted (for example, to do a copy/paste) is blue, as though Firefox is ignoring the instructions in userChrome.css.  Not sure why.
+This is the old userChrome.css provided with the Shades of Gray theme by WernerFP. Note that there is an updated version for Firefox 68/69.
